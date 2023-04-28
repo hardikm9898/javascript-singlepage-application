@@ -11,7 +11,7 @@ const closea = document.querySelector(".navbarul");
 const body = document.querySelector("body");
 const home = document.querySelector(".home");
 const scroll = document.querySelector(".scroll");
-// function
+
 
 // relevan scroll
 
